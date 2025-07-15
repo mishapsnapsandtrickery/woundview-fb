@@ -1,0 +1,14 @@
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+PyMySQL
+python-dotenv
+openai
+torch
+torchvision
+timm
+scikit-learn
+numpy
+matplotlib
+tqdm
+flask-cors
